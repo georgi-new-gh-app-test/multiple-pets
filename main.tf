@@ -12,7 +12,7 @@ output "random_pet_names" {
 #resource "random_pet" "name2" {
   #count = 100
 
-  l#ength    = 3
+  #length    = 3
   #separator = "-"
 #}
 
